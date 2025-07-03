@@ -2,6 +2,8 @@
 
 This project demonstrates how to interface the nRF5340 Development Kit (nRF5340DK) with a DS3231 Real-Time Clock (RTC) module using Zephyr RTOS. It provides code to set and read the date/time from the DS3231 over I2C, and prints the current time every second.
 
+![Project photo](assets/photo.jpg)
+
 ## Hardware Setup
 
 - **MCU Board:** Nordic nRF5340DK
