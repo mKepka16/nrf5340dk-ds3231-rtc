@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.tmpl": "html",
+    "*.sql": "sql",
+    "stdio.h": "c",
+    "kernel.h": "c",
+    "gpio.h": "c",
+    "i2c.h": "c",
+    "stddef.h": "c"
+  }
+}

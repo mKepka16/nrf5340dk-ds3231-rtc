@@ -1,0 +1,10 @@
+&i2c1 {
+  rtcsensor: rtcsensor@68 {
+    compatible = "i2c-device";
+    reg = <0x68>;
+    label = "RTC Sensor";
+  };
+};
+&uart0 {
+  compatible = "nordic,nrf-uarte";
+};
