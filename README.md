@@ -41,3 +41,7 @@ This project demonstrates how to interface the nRF5340 Development Kit (nRF5340D
 - Ensure your DS3231 module is powered at 2.9V to match the nRF5340DK logic levels.
 - If you see I2C errors, check for correct wiring and pull-up resistors.
 - The initial time set on the RTC is hardcoded in `main.c` and can be changed as needed.
+
+## Documentation
+- [DS3231 Datasheet (PDF)](docs/DS3231-datasheet.pdf)
+
